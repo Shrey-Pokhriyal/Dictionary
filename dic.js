@@ -37,7 +37,7 @@ let val=getword();
           cont.innerHTML=str;
         }
     }
-    xhr.send();
+    xhr.send();//sending
 }
 function getword()
 {
